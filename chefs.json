@@ -1,0 +1,67 @@
+[
+    {
+      "id": 1,
+      "name": "Ray Krishna",
+      "img": "https://m.media-amazon.com/images/I/811QmJcr+-L._SL1500_.jpg",
+      "country": "India",
+      "Experience": "15",
+      "details": "Indian best food that's make you happy moment and good helth",
+      "Recipes": [{      "name": "Ruti sola",    
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDyD-jH8hHo3LzhSoLqeXhCyHa0tnv5DEOIQ&usqp=CAU",
+        "details": "Ruti is the most Importance food item for Indians"},
+        
+        {      "name": "Raj vag",    
+      "img": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/store/header/d4d4e4b4-7db0-473a-a3ed-9ccdc291adf3.jpg",
+      "details": "Raj vag is taditional expencive food in indan."}, 
+      
+      {      "name": "Mohan Vose",    
+    "img": "https://media.istockphoto.com/id/1401460535/photo/assorted-indian-food-indian-cuisine.jpg?b=1&s=170667a&w=0&k=20&c=aP1fo3JG9CdWcaTmV0vM4cX5I64-iSr5vprRjCViaTs=",
+    "details": "Mohan vag is the most delish food item in the world."
+
+
+  }]
+    },
+
+
+
+    {
+      "id": 2,
+      "name": "Rabi Shen",
+      "img": "https://i.pinimg.com/originals/c3/59/94/c3599469bc5b54a2a70477761d77d42b.png",
+      "country": "india",
+      "Experience": "10",
+
+      "details": "Best Ameican Deshi Food In Best Comination.",
+      "Recipes": [{      "name": "berger",   
+      "details": "barger is the most fravrite food in the world", 
+        "img": "https://mir-s3-cdn-cf.behance.net/projects/404/f7b4eb161162597.Y3JvcCwyNTAwLDE5NTUsMCwyNA.jpg"}, {      "name": "pizza",    
+      "img": "https://static.standard.co.uk/s3fs-public/thumbnails/image/2019/07/19/11/yard-sale-pizza-1907.jpg?width=968&auto=webp&quality=50&crop=968%3A645%2Csmart",
+      "details": "Ruti is the most Importance food item for Indians"}, {      "name": "pasta",    
+    "img": "https://img.taste.com.au/8LHWPqLR/taste/2022/09/all-in-one-tuscan-chicken-pasta-bake-181120-2.jpg",
+    "details": "Pasta with indian massula"
+
+
+  }]
+    },
+    {
+      "id": 3,
+      "name": "Sanjoyai davi",
+      "img": "https://us.123rf.com/450wm/jackf/jackf1610/jackf161001728/64918362-positive-female-chef-posing-with-plate-of-salad-and-cheese.jpg",
+      "country": "india",
+      "Experience": "12",
+
+      "details": "The Mediterranean diet forms the basis of Italian cuisine.",
+      "Recipes": [{      "name": "Vapa Pita",    
+        "img": "https://img-global.cpcdn.com/recipes/02950c53af41a61f/680x482cq70/%E0%A6%A8%E0%A6%95%E0%A6%B6-%E0%A6%AA%E0%A6%A0-nakshi-pitha-recipe-in-bengali-%E0%A6%B0%E0%A6%B8%E0%A6%AA%E0%A6%B0-%E0%A6%AA%E0%A6%B0%E0%A6%A7%E0%A6%A8-%E0%A6%9B%E0%A6%AC.jpg"}, 
+        {      "name": "Panta vat with elish",    
+      "img": "https://www.daily-sun.com/assets/news_images/2017/04/13/Daily-Sun-81-01-13-04-2017.jpg",
+      "details": "Panta vat is the most popular and emotional food for banglais"},
+       {      "name": "Fish Carry",    
+    "img": "https://c.ndtvimg.com/2021-02/gsq3frgg_fish-fry_625x300_10_February_21.jpg",
+    "details": "Magur mach is a cat fish it loved by All Banglais"
+
+
+  }]
+    }
+  
+]
